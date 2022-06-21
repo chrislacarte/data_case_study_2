@@ -1,0 +1,13 @@
+use sakila;
+
+select * from actor;
+select * from film;
+select * from customer;
+select title from film;
+select distinct language_id from film;
+select * from film;
+select * from language;
+select * from store;
+select * from staff;
+select first_name from staff;
+
